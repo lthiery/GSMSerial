@@ -1,7 +1,7 @@
 /*
 Author: Louis Thiery (me@louisthiery.com)
 
-v1.0 (April 11, 2012)
+v1.1 (April 23, 2012)
 
 COPYRIGHT (C) 2012 Louis Thiery. All rights reserved.
 This work is released under Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
