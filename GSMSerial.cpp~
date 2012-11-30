@@ -159,7 +159,7 @@ void GSMSerial::_readPhone(){
     delay(DELAY_PER_CHAR);
     char current = _myPhone.read();
     if(current!= '-1') buffer[pointer++]=current;
-    if(current=='K' && buffer[pointer-2]=='O'){
+    if(current='K' && buffer[pointer-2]=='O'){
       buffer[pointer]='\0';
       return;
     }
